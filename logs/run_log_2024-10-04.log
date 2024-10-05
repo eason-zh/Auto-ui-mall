@@ -1,0 +1,245 @@
+[INFO] [2024-10-04 10:10:22.729]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_001]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:10:22.749]:execution time: 5.86 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:10:24.975]:输入内容：请输入手机号码，内容：13222689999 base.py -> sel_send_keys line:95
+[INFO] [2024-10-04 10:10:25.539]:输入内容：请输入密码，内容：123456 base.py -> sel_send_keys line:95
+[INFO] [2024-10-04 10:10:26.520]:获取元素文本：退出登录 base.py -> sel_get_text line:106
+[INFO] [2024-10-04 10:10:26.778]:左键点击：退出登录 base.py -> sel_click line:63
+[INFO] [2024-10-04 10:10:26.854]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_001]' when='call' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:10:26.855]:execution time: 4.09 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:10:26.859]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_001]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:10:26.860]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:10:26.866]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_002]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:10:26.867]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:10:28.742]:输入内容：请输入手机号码，内容：13222689999 base.py -> sel_send_keys line:95
+[INFO] [2024-10-04 10:10:30.646]:输入内容：请输入密码，内容：1234567 base.py -> sel_send_keys line:95
+[INFO] [2024-10-04 10:10:31.037]:获取元素文本：注册 base.py -> sel_get_text line:106
+[INFO] [2024-10-04 10:10:31.086]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_002]' when='call' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:10:31.105]:execution time: 4.22 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:10:31.129]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_002]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:10:31.129]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:10:31.133]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_003]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:10:31.133]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:13:31.279]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_001]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:13:31.316]:execution time: 2.56 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:13:33.376]:输入内容：请输入手机号码，内容：13222689999 base.py -> sel_send_keys line:95
+[INFO] [2024-10-04 10:13:33.917]:输入内容：请输入密码，内容：123456 base.py -> sel_send_keys line:95
+[INFO] [2024-10-04 10:13:34.825]:获取元素文本：退出登录 base.py -> sel_get_text line:106
+[INFO] [2024-10-04 10:13:35.076]:左键点击：退出登录 base.py -> sel_click line:63
+[INFO] [2024-10-04 10:13:35.184]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_001]' when='call' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:13:35.185]:execution time: 3.83 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:13:35.191]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_001]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:13:35.192]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:13:35.196]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_002]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:13:35.197]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:13:37.053]:输入内容：请输入手机号码，内容：13222689999 base.py -> sel_send_keys line:95
+[INFO] [2024-10-04 10:13:37.580]:输入内容：请输入密码，内容：1234567 base.py -> sel_send_keys line:95
+[INFO] [2024-10-04 10:13:37.915]:获取元素文本：注册 base.py -> sel_get_text line:106
+[INFO] [2024-10-04 10:13:37.925]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_002]' when='call' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:13:37.925]:execution time: 2.73 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:13:37.927]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_002]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:13:37.927]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:13:37.928]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_003]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:13:37.928]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[ERROR] [2024-10-04 10:13:59.986]:定位失败：('xpath', "//div[@class='tabbar']//div[4]"), 错误信息：Message: 
+Stacktrace:
+0   chromedriver                        0x0000000103735d18 chromedriver + 4996376
+1   chromedriver                        0x000000010372d5da chromedriver + 4961754
+2   chromedriver                        0x00000001032d0d10 chromedriver + 388368
+3   chromedriver                        0x000000010331d30f chromedriver + 701199
+4   chromedriver                        0x000000010331d3f1 chromedriver + 701425
+5   chromedriver                        0x0000000103362464 chromedriver + 984164
+6   chromedriver                        0x00000001033419dd chromedriver + 850397
+7   chromedriver                        0x000000010335fa00 chromedriver + 973312
+8   chromedriver                        0x0000000103341753 chromedriver + 849747
+9   chromedriver                        0x0000000103310635 chromedriver + 648757
+10  chromedriver                        0x0000000103310e5e chromedriver + 650846
+11  chromedriver                        0x00000001036fc000 chromedriver + 4759552
+12  chromedriver                        0x0000000103700f18 chromedriver + 4779800
+13  chromedriver                        0x00000001037015e5 chromedriver + 4781541
+14  chromedriver                        0x00000001036deaa9 chromedriver + 4639401
+15  chromedriver                        0x00000001037018d9 chromedriver + 4782297
+16  chromedriver                        0x00000001036d0044 chromedriver + 4579396
+17  chromedriver                        0x000000010371da08 chromedriver + 4897288
+18  chromedriver                        0x000000010371dc03 chromedriver + 4897795
+19  chromedriver                        0x000000010372d1de chromedriver + 4960734
+20  libsystem_pthread.dylib             0x00007ff8093eb253 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff8093e6bef thread_start + 15
+ base.py -> sel_click line:66
+[ERROR] [2024-10-04 10:13:59.990]:Message: 
+Stacktrace:
+0   chromedriver                        0x0000000103735d18 chromedriver + 4996376
+1   chromedriver                        0x000000010372d5da chromedriver + 4961754
+2   chromedriver                        0x00000001032d0d10 chromedriver + 388368
+3   chromedriver                        0x000000010331d30f chromedriver + 701199
+4   chromedriver                        0x000000010331d3f1 chromedriver + 701425
+5   chromedriver                        0x0000000103362464 chromedriver + 984164
+6   chromedriver                        0x00000001033419dd chromedriver + 850397
+7   chromedriver                        0x000000010335fa00 chromedriver + 973312
+8   chromedriver                        0x0000000103341753 chromedriver + 849747
+9   chromedriver                        0x0000000103310635 chromedriver + 648757
+10  chromedriver                        0x0000000103310e5e chromedriver + 650846
+11  chromedriver                        0x00000001036fc000 chromedriver + 4759552
+12  chromedriver                        0x0000000103700f18 chromedriver + 4779800
+13  chromedriver                        0x00000001037015e5 chromedriver + 4781541
+14  chromedriver                        0x00000001036deaa9 chromedriver + 4639401
+15  chromedriver                        0x00000001037018d9 chromedriver + 4782297
+16  chromedriver                        0x00000001036d0044 chromedriver + 4579396
+17  chromedriver                        0x000000010371da08 chromedriver + 4897288
+18  chromedriver                        0x000000010371dc03 chromedriver + 4897795
+19  chromedriver                        0x000000010372d1de chromedriver + 4960734
+20  libsystem_pthread.dylib             0x00007ff8093eb253 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff8093e6bef thread_start + 15
+ event.py -> event_login line:18
+[INFO] [2024-10-04 10:14:00.178]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_003]' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:14:00.178]:execution time: 22.06 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:14:00.178]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[INFO] [2024-10-04 10:14:01.655]:截图成功：/Users/easons/IdeaProjects/Auto-ui-mall/image_allure//tem_chrom_save_screenshot1728008040.jpg base.py -> chrom_save_screenshot line:130
+[INFO] [2024-10-04 10:14:01.864]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_003]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:14:01.864]:execution time: 0.2 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:15:28.661]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_001]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:15:28.680]:execution time: 2.67 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:15:30.739]:输入内容：请输入手机号码，内容：13222689999 base.py -> sel_send_keys line:95
+[INFO] [2024-10-04 10:15:31.270]:输入内容：请输入密码，内容：123456 base.py -> sel_send_keys line:95
+[INFO] [2024-10-04 10:15:32.048]:获取元素文本：退出登录 base.py -> sel_get_text line:106
+[INFO] [2024-10-04 10:15:32.298]:左键点击：退出登录 base.py -> sel_click line:63
+[INFO] [2024-10-04 10:15:32.377]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_001]' when='call' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:15:32.378]:execution time: 3.66 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:15:32.381]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_001]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:15:32.381]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:15:32.384]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_002]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:15:32.386]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:15:34.235]:输入内容：请输入手机号码，内容：13222689999 base.py -> sel_send_keys line:95
+[INFO] [2024-10-04 10:15:34.763]:输入内容：请输入密码，内容：1234567 base.py -> sel_send_keys line:95
+[INFO] [2024-10-04 10:15:35.057]:获取元素文本：注册 base.py -> sel_get_text line:106
+[INFO] [2024-10-04 10:15:35.065]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_002]' when='call' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:15:35.065]:execution time: 2.68 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:15:35.066]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_002]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:15:35.066]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:15:35.068]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_003]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:15:35.068]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:16:14.792]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_001]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:16:14.863]:execution time: 2.18 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:16:16.930]:输入内容：请输入手机号码，内容：13222689999 base.py -> sel_send_keys line:95
+[INFO] [2024-10-04 10:16:17.467]:输入内容：请输入密码，内容：123456 base.py -> sel_send_keys line:95
+[INFO] [2024-10-04 10:16:18.252]:获取元素文本：退出登录 base.py -> sel_get_text line:106
+[INFO] [2024-10-04 10:16:18.500]:左键点击：退出登录 base.py -> sel_click line:63
+[INFO] [2024-10-04 10:16:18.595]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_001]' when='call' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:16:18.595]:execution time: 3.69 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:16:18.599]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_001]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:16:18.600]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:16:18.608]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_002]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:16:18.609]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:16:20.431]:输入内容：请输入手机号码，内容：13222689999 base.py -> sel_send_keys line:95
+[INFO] [2024-10-04 10:16:20.961]:输入内容：请输入密码，内容：1234567 base.py -> sel_send_keys line:95
+[INFO] [2024-10-04 10:16:21.289]:获取元素文本：注册 base.py -> sel_get_text line:106
+[INFO] [2024-10-04 10:16:21.298]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_002]' when='call' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:16:21.298]:execution time: 2.69 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:16:21.300]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_002]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:16:21.301]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:16:21.303]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_003]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:16:21.303]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:16:57.204]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_001]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:16:57.258]:execution time: 2.47 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:16:59.302]:输入内容：请输入手机号码，内容：13222689999 base.py -> sel_send_keys line:95
+[INFO] [2024-10-04 10:16:59.862]:输入内容：请输入密码，内容：123456 base.py -> sel_send_keys line:95
+[INFO] [2024-10-04 10:17:00.649]:获取元素文本：退出登录 base.py -> sel_get_text line:106
+[INFO] [2024-10-04 10:17:00.914]:左键点击：退出登录 base.py -> sel_click line:63
+[INFO] [2024-10-04 10:17:01.015]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_001]' when='call' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:17:01.016]:execution time: 3.73 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:17:01.020]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_001]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:17:01.020]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:17:01.024]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_002]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:17:01.025]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:17:02.838]:输入内容：请输入手机号码，内容：13222689999 base.py -> sel_send_keys line:95
+[INFO] [2024-10-04 10:17:03.368]:输入内容：请输入密码，内容：1234567 base.py -> sel_send_keys line:95
+[INFO] [2024-10-04 10:17:03.682]:获取元素文本：注册 base.py -> sel_get_text line:106
+[INFO] [2024-10-04 10:17:03.698]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_002]' when='call' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:17:03.718]:execution time: 2.67 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:17:03.720]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_002]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:17:03.720]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:17:03.722]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_003]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:17:03.723]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[ERROR] [2024-10-04 10:17:25.778]:定位失败：('xpath', "//div[@class='tabbar']//div[4]"), 错误信息：Message: 
+Stacktrace:
+0   chromedriver                        0x0000000108de8d18 chromedriver + 4996376
+1   chromedriver                        0x0000000108de05da chromedriver + 4961754
+2   chromedriver                        0x0000000108983d10 chromedriver + 388368
+3   chromedriver                        0x00000001089d030f chromedriver + 701199
+4   chromedriver                        0x00000001089d03f1 chromedriver + 701425
+5   chromedriver                        0x0000000108a15464 chromedriver + 984164
+6   chromedriver                        0x00000001089f49dd chromedriver + 850397
+7   chromedriver                        0x0000000108a12a00 chromedriver + 973312
+8   chromedriver                        0x00000001089f4753 chromedriver + 849747
+9   chromedriver                        0x00000001089c3635 chromedriver + 648757
+10  chromedriver                        0x00000001089c3e5e chromedriver + 650846
+11  chromedriver                        0x0000000108daf000 chromedriver + 4759552
+12  chromedriver                        0x0000000108db3f18 chromedriver + 4779800
+13  chromedriver                        0x0000000108db45e5 chromedriver + 4781541
+14  chromedriver                        0x0000000108d91aa9 chromedriver + 4639401
+15  chromedriver                        0x0000000108db48d9 chromedriver + 4782297
+16  chromedriver                        0x0000000108d83044 chromedriver + 4579396
+17  chromedriver                        0x0000000108dd0a08 chromedriver + 4897288
+18  chromedriver                        0x0000000108dd0c03 chromedriver + 4897795
+19  chromedriver                        0x0000000108de01de chromedriver + 4960734
+20  libsystem_pthread.dylib             0x00007ff8093eb253 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff8093e6bef thread_start + 15
+ base.py -> sel_click line:66
+[ERROR] [2024-10-04 10:17:25.781]:Message: 
+Stacktrace:
+0   chromedriver                        0x0000000108de8d18 chromedriver + 4996376
+1   chromedriver                        0x0000000108de05da chromedriver + 4961754
+2   chromedriver                        0x0000000108983d10 chromedriver + 388368
+3   chromedriver                        0x00000001089d030f chromedriver + 701199
+4   chromedriver                        0x00000001089d03f1 chromedriver + 701425
+5   chromedriver                        0x0000000108a15464 chromedriver + 984164
+6   chromedriver                        0x00000001089f49dd chromedriver + 850397
+7   chromedriver                        0x0000000108a12a00 chromedriver + 973312
+8   chromedriver                        0x00000001089f4753 chromedriver + 849747
+9   chromedriver                        0x00000001089c3635 chromedriver + 648757
+10  chromedriver                        0x00000001089c3e5e chromedriver + 650846
+11  chromedriver                        0x0000000108daf000 chromedriver + 4759552
+12  chromedriver                        0x0000000108db3f18 chromedriver + 4779800
+13  chromedriver                        0x0000000108db45e5 chromedriver + 4781541
+14  chromedriver                        0x0000000108d91aa9 chromedriver + 4639401
+15  chromedriver                        0x0000000108db48d9 chromedriver + 4782297
+16  chromedriver                        0x0000000108d83044 chromedriver + 4579396
+17  chromedriver                        0x0000000108dd0a08 chromedriver + 4897288
+18  chromedriver                        0x0000000108dd0c03 chromedriver + 4897795
+19  chromedriver                        0x0000000108de01de chromedriver + 4960734
+20  libsystem_pthread.dylib             0x00007ff8093eb253 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff8093e6bef thread_start + 15
+ event.py -> event_login line:18
+[INFO] [2024-10-04 10:17:25.931]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_003]' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:17:25.931]:execution time: 22.06 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:17:25.932]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[INFO] [2024-10-04 10:17:27.400]:截图成功：/Users/easons/IdeaProjects/Auto-ui-mall/image_allure//tem_chrom_save_screenshot1728008245.jpg base.py -> chrom_save_screenshot line:130
+[INFO] [2024-10-04 10:17:27.630]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_003]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:17:27.630]:execution time: 0.22 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:18:00.308]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_001]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:18:00.358]:execution time: 2.53 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:18:02.401]:输入内容：请输入手机号码，内容：13222689999 base.py -> sel_send_keys line:95
+[INFO] [2024-10-04 10:18:02.939]:输入内容：请输入密码，内容：123456 base.py -> sel_send_keys line:95
+[INFO] [2024-10-04 10:18:03.761]:获取元素文本：退出登录 base.py -> sel_get_text line:106
+[INFO] [2024-10-04 10:18:04.012]:左键点击：退出登录 base.py -> sel_click line:63
+[INFO] [2024-10-04 10:18:04.102]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_001]' when='call' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:18:04.103]:execution time: 3.72 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:18:04.108]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_001]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:18:04.109]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:18:04.119]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_002]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:18:04.120]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:18:05.948]:输入内容：请输入手机号码，内容：13222689999 base.py -> sel_send_keys line:95
+[INFO] [2024-10-04 10:18:06.484]:输入内容：请输入密码，内容：1234567 base.py -> sel_send_keys line:95
+[INFO] [2024-10-04 10:18:06.783]:获取元素文本：注册 base.py -> sel_get_text line:106
+[INFO] [2024-10-04 10:18:06.865]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_002]' when='call' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:18:06.867]:execution time: 2.74 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:18:06.870]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_002]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:18:06.871]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:18:06.876]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_003]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:18:06.877]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:18:08.698]:输入内容：请输入手机号码，内容：12345678901 base.py -> sel_send_keys line:95
+[INFO] [2024-10-04 10:18:09.235]:输入内容：请输入密码，内容：123456 base.py -> sel_send_keys line:95
+[INFO] [2024-10-04 10:18:09.547]:获取元素文本：注册 base.py -> sel_get_text line:106
+[INFO] [2024-10-04 10:18:09.642]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_003]' when='call' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:18:09.706]:execution time: 2.76 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-04 10:18:09.852]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[test_login_003]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-04 10:18:09.853]:execution time: 0.13 second conftest.py -> pytest_runtest_makereport line:29

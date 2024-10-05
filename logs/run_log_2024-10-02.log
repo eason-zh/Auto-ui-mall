@@ -1,0 +1,429 @@
+[INFO] [2024-10-02 17:05:19.029]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='setup' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:05:19.029]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:05:19.030]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[ERROR] [2024-10-02 17:05:19.030]:Error while taking screenshot: name 'driver' is not defined conftest.py -> pytest_runtest_makereport line:35
+[INFO] [2024-10-02 17:05:19.032]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:05:19.033]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:05:19.047]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='setup' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:05:19.048]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:05:19.048]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[ERROR] [2024-10-02 17:05:19.048]:Error while taking screenshot: name 'driver' is not defined conftest.py -> pytest_runtest_makereport line:35
+[INFO] [2024-10-02 17:05:19.049]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:05:19.049]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:05:19.061]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='setup' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:05:19.061]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:05:19.061]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[ERROR] [2024-10-02 17:05:19.061]:Error while taking screenshot: name 'driver' is not defined conftest.py -> pytest_runtest_makereport line:35
+[INFO] [2024-10-02 17:05:19.063]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:05:19.063]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:14:37.100]:Test result: <TestReport 'test_login.py::TestLogin::test_login_fail' when='setup' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:14:37.101]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:14:37.101]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[ERROR] [2024-10-02 17:14:37.101]:Error while taking screenshot: name 'driver' is not defined conftest.py -> pytest_runtest_makereport line:35
+[INFO] [2024-10-02 17:14:37.104]:Test result: <TestReport 'test_login.py::TestLogin::test_login_fail' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:14:37.104]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:14:57.358]:Test result: <TestReport 'test_login.py::TestLogin::test_login_fail' when='setup' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:14:57.359]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:14:57.359]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[ERROR] [2024-10-02 17:14:57.360]:Error while taking screenshot: name 'driver' is not defined conftest.py -> pytest_runtest_makereport line:35
+[INFO] [2024-10-02 17:14:57.362]:Test result: <TestReport 'test_login.py::TestLogin::test_login_fail' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:14:57.362]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:16:10.106]:Test result: <TestReport 'test_login.py::TestLogin::test_login_fail' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:16:10.107]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:16:21.915]:Test result: <TestReport 'test_login.py::TestLogin::test_login_fail' when='call' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:16:21.917]:execution time: 11.81 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:16:21.925]:Test result: <TestReport 'test_login.py::TestLogin::test_login_fail' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:16:21.925]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:16:45.141]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='setup' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:16:45.142]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:16:45.142]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[ERROR] [2024-10-02 17:16:45.143]:Error while taking screenshot: name 'driver' is not defined conftest.py -> pytest_runtest_makereport line:35
+[INFO] [2024-10-02 17:16:45.149]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:16:45.150]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:16:45.177]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='setup' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:16:45.177]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:16:45.177]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[ERROR] [2024-10-02 17:16:45.178]:Error while taking screenshot: name 'driver' is not defined conftest.py -> pytest_runtest_makereport line:35
+[INFO] [2024-10-02 17:16:45.181]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:16:45.182]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:16:45.206]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='setup' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:16:45.206]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:16:45.207]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[ERROR] [2024-10-02 17:16:45.207]:Error while taking screenshot: name 'driver' is not defined conftest.py -> pytest_runtest_makereport line:35
+[INFO] [2024-10-02 17:16:45.210]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:16:45.211]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:19:30.037]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='setup' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:19:30.038]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:19:30.039]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[ERROR] [2024-10-02 17:19:30.039]:Error while taking screenshot: name 'driver' is not defined conftest.py -> pytest_runtest_makereport line:35
+[INFO] [2024-10-02 17:19:30.042]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:19:30.042]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:19:30.055]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='setup' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:19:30.055]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:19:30.055]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[ERROR] [2024-10-02 17:19:30.055]:Error while taking screenshot: name 'driver' is not defined conftest.py -> pytest_runtest_makereport line:35
+[INFO] [2024-10-02 17:19:30.057]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:19:30.057]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:19:30.067]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='setup' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:19:30.067]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:19:30.067]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[ERROR] [2024-10-02 17:19:30.067]:Error while taking screenshot: name 'driver' is not defined conftest.py -> pytest_runtest_makereport line:35
+[INFO] [2024-10-02 17:19:30.069]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:19:30.069]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:21:49.357]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='setup' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:21:49.358]:execution time: 17.81 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:21:49.359]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[ERROR] [2024-10-02 17:21:49.359]:Error while taking screenshot: name 'driver' is not defined conftest.py -> pytest_runtest_makereport line:35
+[INFO] [2024-10-02 17:21:49.366]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:21:49.366]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:21:49.392]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='setup' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:21:49.393]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:21:49.393]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[ERROR] [2024-10-02 17:21:49.394]:Error while taking screenshot: name 'driver' is not defined conftest.py -> pytest_runtest_makereport line:35
+[INFO] [2024-10-02 17:21:49.398]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:21:49.398]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:21:49.420]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='setup' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:21:49.420]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:21:49.420]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[ERROR] [2024-10-02 17:21:49.420]:Error while taking screenshot: name 'driver' is not defined conftest.py -> pytest_runtest_makereport line:35
+[INFO] [2024-10-02 17:21:49.424]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:21:49.425]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:32:16.499]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='setup' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:32:17.605]:execution time: 39.88 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:32:20.536]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[ERROR] [2024-10-02 17:32:23.082]:Error while taking screenshot: name 'driver' is not defined conftest.py -> pytest_runtest_makereport line:35
+[INFO] [2024-10-02 17:32:27.975]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:32:28.837]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:34:36.875]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='setup' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:34:36.876]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:34:36.876]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[ERROR] [2024-10-02 17:34:36.877]:Error while taking screenshot: name 'driver' is not defined conftest.py -> pytest_runtest_makereport line:35
+[INFO] [2024-10-02 17:34:36.880]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:34:36.880]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:34:36.891]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='setup' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:34:36.892]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:34:36.892]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[ERROR] [2024-10-02 17:34:36.892]:Error while taking screenshot: name 'driver' is not defined conftest.py -> pytest_runtest_makereport line:35
+[INFO] [2024-10-02 17:34:36.894]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:34:36.894]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:34:36.904]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='setup' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:34:36.904]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:34:36.905]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[ERROR] [2024-10-02 17:34:36.905]:Error while taking screenshot: name 'driver' is not defined conftest.py -> pytest_runtest_makereport line:35
+[INFO] [2024-10-02 17:34:36.906]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:34:36.907]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:37:19.566]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:37:19.588]:execution time: 3.33 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:37:19.802]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:37:19.803]:execution time: 0.05 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:37:19.803]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[INFO] [2024-10-02 17:37:19.804]:创建截图目录：/Users/easons/IdeaProjects/Auto-ui-mall/image_allure base.py -> chrom_save_screenshot line:124
+[INFO] [2024-10-02 17:37:21.497]:截图成功：/Users/easons/IdeaProjects/Auto-ui-mall/image_allure//tem_chrom_save_screenshot1727861839.jpg base.py -> chrom_save_screenshot line:127
+[INFO] [2024-10-02 17:37:21.508]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:37:21.509]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:37:21.516]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:37:21.516]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:37:21.520]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:37:21.521]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:37:21.521]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[INFO] [2024-10-02 17:37:22.859]:截图成功：/Users/easons/IdeaProjects/Auto-ui-mall/image_allure//tem_chrom_save_screenshot1727861841.jpg base.py -> chrom_save_screenshot line:127
+[INFO] [2024-10-02 17:37:22.860]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:37:22.861]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:37:22.862]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:37:22.862]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:37:22.865]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:37:22.866]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:37:22.866]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[INFO] [2024-10-02 17:37:24.227]:截图成功：/Users/easons/IdeaProjects/Auto-ui-mall/image_allure//tem_chrom_save_screenshot1727861842.jpg base.py -> chrom_save_screenshot line:127
+[INFO] [2024-10-02 17:37:24.347]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:37:24.347]:execution time: 0.12 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:42:41.874]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:42:41.930]:execution time: 2.77 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:42:42.139]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:42:42.139]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:42:42.140]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[INFO] [2024-10-02 17:42:43.562]:截图成功：/Users/easons/IdeaProjects/Auto-ui-mall/image_allure//tem_chrom_save_screenshot1727862162.jpg base.py -> chrom_save_screenshot line:127
+[INFO] [2024-10-02 17:42:43.577]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:42:43.577]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:42:43.595]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:42:43.596]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:42:43.600]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:42:43.601]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:42:43.601]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[INFO] [2024-10-02 17:42:44.940]:截图成功：/Users/easons/IdeaProjects/Auto-ui-mall/image_allure//tem_chrom_save_screenshot1727862163.jpg base.py -> chrom_save_screenshot line:127
+[INFO] [2024-10-02 17:42:44.942]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:42:44.942]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:42:44.944]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:42:44.945]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:42:44.949]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:42:44.949]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:42:44.949]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[INFO] [2024-10-02 17:42:46.296]:截图成功：/Users/easons/IdeaProjects/Auto-ui-mall/image_allure//tem_chrom_save_screenshot1727862164.jpg base.py -> chrom_save_screenshot line:127
+[INFO] [2024-10-02 17:42:46.475]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:42:46.475]:execution time: 0.18 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:44:30.253]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:44:30.271]:execution time: 3.07 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:44:30.449]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:44:30.450]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:44:30.451]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[INFO] [2024-10-02 17:44:31.815]:截图成功：/Users/easons/IdeaProjects/Auto-ui-mall/image_allure//tem_chrom_save_screenshot1727862270.jpg base.py -> chrom_save_screenshot line:127
+[INFO] [2024-10-02 17:44:31.820]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:44:31.820]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:44:31.826]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:44:31.826]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:44:31.830]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:44:31.831]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:44:31.831]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[INFO] [2024-10-02 17:44:33.163]:截图成功：/Users/easons/IdeaProjects/Auto-ui-mall/image_allure//tem_chrom_save_screenshot1727862271.jpg base.py -> chrom_save_screenshot line:127
+[INFO] [2024-10-02 17:44:33.187]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:44:33.188]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:44:33.190]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:44:33.190]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:44:33.195]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:44:33.195]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:44:33.195]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[INFO] [2024-10-02 17:44:34.548]:截图成功：/Users/easons/IdeaProjects/Auto-ui-mall/image_allure//tem_chrom_save_screenshot1727862273.jpg base.py -> chrom_save_screenshot line:127
+[INFO] [2024-10-02 17:44:34.710]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:44:34.711]:execution time: 0.16 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:50:12.790]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:50:13.908]:execution time: 73.56 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:58:32.046]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:58:33.605]:execution time: 31.34 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:59:00.766]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:59:04.115]:execution time: 7.14 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:59:11.648]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[INFO] [2024-10-02 17:59:35.462]:截图成功：/Users/easons/IdeaProjects/Auto-ui-mall/image_allure//tem_chrom_save_screenshot1727863160.jpg base.py -> chrom_save_screenshot line:127
+[INFO] [2024-10-02 17:59:46.746]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:59:47.654]:execution time: 0.01 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 17:59:51.909]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 17:59:52.777]:execution time: 0.01 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:00:02.902]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:00:03.993]:execution time: 1.68 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:00:06.875]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[INFO] [2024-10-02 18:02:04.511]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:02:04.549]:execution time: 2.36 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:02:04.752]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:02:04.753]:execution time: 0.02 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:02:04.754]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[INFO] [2024-10-02 18:02:06.098]:截图成功：/Users/easons/IdeaProjects/Auto-ui-mall/image_allure//tem_chrom_save_screenshot1727863324.jpg base.py -> chrom_save_screenshot line:127
+[INFO] [2024-10-02 18:02:06.101]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:02:06.101]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:02:06.107]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:02:06.107]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:02:06.111]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:02:06.111]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:02:06.112]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[INFO] [2024-10-02 18:02:07.478]:截图成功：/Users/easons/IdeaProjects/Auto-ui-mall/image_allure//tem_chrom_save_screenshot1727863326.jpg base.py -> chrom_save_screenshot line:127
+[INFO] [2024-10-02 18:02:07.480]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:02:07.480]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:02:07.481]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:02:07.482]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:02:07.485]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:02:07.485]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:02:07.486]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[INFO] [2024-10-02 18:02:08.838]:截图成功：/Users/easons/IdeaProjects/Auto-ui-mall/image_allure//tem_chrom_save_screenshot1727863327.jpg base.py -> chrom_save_screenshot line:127
+[INFO] [2024-10-02 18:02:09.042]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:02:09.042]:execution time: 0.2 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:03:50.965]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:03:50.991]:execution time: 3.16 second conftest.py -> pytest_runtest_makereport line:29
+[ERROR] [2024-10-02 18:03:54.442]:'NoneType' object has no attribute 'sel_click' event.py -> event_login line:17
+[INFO] [2024-10-02 18:03:54.577]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:03:54.592]:execution time: 3.48 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:03:54.592]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[INFO] [2024-10-02 18:03:55.859]:截图成功：/Users/easons/IdeaProjects/Auto-ui-mall/image_allure//tem_chrom_save_screenshot1727863434.jpg base.py -> chrom_save_screenshot line:127
+[INFO] [2024-10-02 18:03:55.879]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:03:55.879]:execution time: 0.01 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:03:55.888]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:03:55.888]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[ERROR] [2024-10-02 18:03:57.853]:'NoneType' object has no attribute 'sel_click' event.py -> event_login line:17
+[INFO] [2024-10-02 18:03:57.894]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:03:57.909]:execution time: 2.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:03:57.911]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[INFO] [2024-10-02 18:03:59.225]:截图成功：/Users/easons/IdeaProjects/Auto-ui-mall/image_allure//tem_chrom_save_screenshot1727863437.jpg base.py -> chrom_save_screenshot line:127
+[INFO] [2024-10-02 18:03:59.249]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:03:59.249]:execution time: 0.02 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:03:59.287]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:03:59.288]:execution time: 0.02 second conftest.py -> pytest_runtest_makereport line:29
+[ERROR] [2024-10-02 18:04:01.261]:'NoneType' object has no attribute 'sel_click' event.py -> event_login line:17
+[INFO] [2024-10-02 18:04:01.266]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:04:01.267]:execution time: 1.95 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:04:01.267]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[INFO] [2024-10-02 18:04:02.497]:截图成功：/Users/easons/IdeaProjects/Auto-ui-mall/image_allure//tem_chrom_save_screenshot1727863441.jpg base.py -> chrom_save_screenshot line:127
+[INFO] [2024-10-02 18:04:02.647]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:04:02.648]:execution time: 0.15 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:04:18.698]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:04:18.737]:execution time: 2.33 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:04:18.944]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:04:18.945]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:04:18.945]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[INFO] [2024-10-02 18:04:20.377]:截图成功：/Users/easons/IdeaProjects/Auto-ui-mall/image_allure//tem_chrom_save_screenshot1727863458.jpg base.py -> chrom_save_screenshot line:127
+[INFO] [2024-10-02 18:04:20.381]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:04:20.381]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:04:20.388]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:04:20.388]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:04:20.393]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:04:20.393]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:04:20.393]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[INFO] [2024-10-02 18:04:21.779]:截图成功：/Users/easons/IdeaProjects/Auto-ui-mall/image_allure//tem_chrom_save_screenshot1727863460.jpg base.py -> chrom_save_screenshot line:127
+[INFO] [2024-10-02 18:04:21.824]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:04:21.844]:execution time: 0.02 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:04:21.865]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:04:21.884]:execution time: 0.02 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:04:21.911]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:04:21.924]:execution time: 0.02 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:04:21.925]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[INFO] [2024-10-02 18:04:23.304]:截图成功：/Users/easons/IdeaProjects/Auto-ui-mall/image_allure//tem_chrom_save_screenshot1727863461.jpg base.py -> chrom_save_screenshot line:127
+[INFO] [2024-10-02 18:04:23.476]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:04:23.477]:execution time: 0.17 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:05:30.479]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:05:30.511]:execution time: 2.41 second conftest.py -> pytest_runtest_makereport line:29
+[ERROR] [2024-10-02 18:05:32.682]:'NoneType' object has no attribute 'sel_click' event.py -> event_login line:17
+[INFO] [2024-10-02 18:05:32.796]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:05:32.800]:execution time: 2.17 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:05:32.819]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[INFO] [2024-10-02 18:05:34.076]:截图成功：/Users/easons/IdeaProjects/Auto-ui-mall/image_allure//tem_chrom_save_screenshot1727863532.jpg base.py -> chrom_save_screenshot line:127
+[INFO] [2024-10-02 18:05:34.079]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:05:34.080]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:05:34.085]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:05:34.085]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[ERROR] [2024-10-02 18:05:35.956]:'NoneType' object has no attribute 'sel_click' event.py -> event_login line:17
+[INFO] [2024-10-02 18:05:35.998]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:05:36.010]:execution time: 1.91 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:05:36.011]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[INFO] [2024-10-02 18:05:37.245]:截图成功：/Users/easons/IdeaProjects/Auto-ui-mall/image_allure//tem_chrom_save_screenshot1727863536.jpg base.py -> chrom_save_screenshot line:127
+[INFO] [2024-10-02 18:05:37.248]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:05:37.248]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:05:37.250]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:05:37.250]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[ERROR] [2024-10-02 18:05:39.260]:'NoneType' object has no attribute 'sel_click' event.py -> event_login line:17
+[INFO] [2024-10-02 18:05:39.293]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:05:39.304]:execution time: 2.04 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:05:39.305]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[INFO] [2024-10-02 18:05:40.552]:截图成功：/Users/easons/IdeaProjects/Auto-ui-mall/image_allure//tem_chrom_save_screenshot1727863539.jpg base.py -> chrom_save_screenshot line:127
+[INFO] [2024-10-02 18:05:40.719]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:05:40.719]:execution time: 0.16 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:11:25.226]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:11:26.649]:execution time: 41.07 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:13:00.027]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:13:00.052]:execution time: 2.72 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:13:02.183]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:13:02.185]:execution time: 2.04 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:13:02.185]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[INFO] [2024-10-02 18:13:03.443]:截图成功：/Users/easons/IdeaProjects/Auto-ui-mall/image_allure//tem_chrom_save_screenshot1727863982.jpg base.py -> chrom_save_screenshot line:127
+[INFO] [2024-10-02 18:13:03.482]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:13:03.501]:execution time: 0.01 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:13:03.522]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:13:03.542]:execution time: 0.01 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:13:05.428]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:13:05.443]:execution time: 1.88 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:13:05.462]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[INFO] [2024-10-02 18:13:06.703]:截图成功：/Users/easons/IdeaProjects/Auto-ui-mall/image_allure//tem_chrom_save_screenshot1727863985.jpg base.py -> chrom_save_screenshot line:127
+[INFO] [2024-10-02 18:13:06.742]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:13:06.743]:execution time: 0.02 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:13:06.765]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:13:06.766]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:13:08.620]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:13:08.637]:execution time: 1.85 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:13:08.656]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[INFO] [2024-10-02 18:13:09.886]:截图成功：/Users/easons/IdeaProjects/Auto-ui-mall/image_allure//tem_chrom_save_screenshot1727863988.jpg base.py -> chrom_save_screenshot line:127
+[INFO] [2024-10-02 18:13:10.051]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:13:10.051]:execution time: 0.16 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:18:39.866]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:18:39.908]:execution time: 3.68 second conftest.py -> pytest_runtest_makereport line:29
+[ERROR] [2024-10-02 18:18:42.051]:'NoneType' object has no attribute 'get' event.py -> event_login line:18
+[INFO] [2024-10-02 18:18:42.155]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:18:42.172]:execution time: 2.14 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:18:42.172]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[INFO] [2024-10-02 18:18:43.447]:截图成功：/Users/easons/IdeaProjects/Auto-ui-mall/image_allure//tem_chrom_save_screenshot1727864322.jpg base.py -> chrom_save_screenshot line:127
+[INFO] [2024-10-02 18:18:43.489]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:18:43.489]:execution time: 0.02 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:18:43.527]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:18:43.547]:execution time: 0.01 second conftest.py -> pytest_runtest_makereport line:29
+[ERROR] [2024-10-02 18:18:45.434]:'NoneType' object has no attribute 'get' event.py -> event_login line:18
+[INFO] [2024-10-02 18:18:45.472]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:18:45.481]:execution time: 1.91 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:18:45.482]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[INFO] [2024-10-02 18:18:46.727]:截图成功：/Users/easons/IdeaProjects/Auto-ui-mall/image_allure//tem_chrom_save_screenshot1727864325.jpg base.py -> chrom_save_screenshot line:127
+[INFO] [2024-10-02 18:18:46.767]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:18:46.788]:execution time: 0.02 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:18:46.808]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:18:46.828]:execution time: 0.02 second conftest.py -> pytest_runtest_makereport line:29
+[ERROR] [2024-10-02 18:18:48.668]:'NoneType' object has no attribute 'get' event.py -> event_login line:18
+[INFO] [2024-10-02 18:18:48.702]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:18:48.714]:execution time: 1.86 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:18:48.714]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[INFO] [2024-10-02 18:18:49.996]:截图成功：/Users/easons/IdeaProjects/Auto-ui-mall/image_allure//tem_chrom_save_screenshot1727864328.jpg base.py -> chrom_save_screenshot line:127
+[INFO] [2024-10-02 18:18:50.159]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:18:50.159]:execution time: 0.16 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:21:17.687]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:21:17.743]:execution time: 2.76 second conftest.py -> pytest_runtest_makereport line:29
+[ERROR] [2024-10-02 18:21:19.861]:'NoneType' object has no attribute 'get' event.py -> event_login line:18
+[INFO] [2024-10-02 18:21:20.060]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:21:20.070]:execution time: 2.12 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:21:20.071]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[INFO] [2024-10-02 18:21:21.358]:截图成功：/Users/easons/IdeaProjects/Auto-ui-mall/image_allure//tem_chrom_save_screenshot1727864480.jpg base.py -> chrom_save_screenshot line:127
+[INFO] [2024-10-02 18:21:21.378]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:21:21.379]:execution time: 0.01 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:21:21.390]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:21:21.390]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[ERROR] [2024-10-02 18:21:23.136]:'NoneType' object has no attribute 'get' event.py -> event_login line:18
+[INFO] [2024-10-02 18:21:23.184]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:21:23.199]:execution time: 1.78 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:21:23.221]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[INFO] [2024-10-02 18:21:24.500]:截图成功：/Users/easons/IdeaProjects/Auto-ui-mall/image_allure//tem_chrom_save_screenshot1727864483.jpg base.py -> chrom_save_screenshot line:127
+[INFO] [2024-10-02 18:21:24.505]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:21:24.506]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:21:24.511]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:21:24.512]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[ERROR] [2024-10-02 18:21:26.586]:'NoneType' object has no attribute 'get' event.py -> event_login line:18
+[INFO] [2024-10-02 18:21:26.668]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:21:26.705]:execution time: 2.14 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:21:26.730]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[INFO] [2024-10-02 18:21:28.169]:截图成功：/Users/easons/IdeaProjects/Auto-ui-mall/image_allure//tem_chrom_save_screenshot1727864486.jpg base.py -> chrom_save_screenshot line:127
+[INFO] [2024-10-02 18:21:28.366]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:21:28.367]:execution time: 0.17 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:28:34.626]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='setup' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:28:34.627]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:28:34.627]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[ERROR] [2024-10-02 18:28:34.627]:Error while taking screenshot: name 'driver' is not defined conftest.py -> pytest_runtest_makereport line:35
+[INFO] [2024-10-02 18:28:34.629]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:28:34.629]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:28:34.637]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='setup' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:28:34.638]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:28:34.638]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[ERROR] [2024-10-02 18:28:34.638]:Error while taking screenshot: name 'driver' is not defined conftest.py -> pytest_runtest_makereport line:35
+[INFO] [2024-10-02 18:28:34.640]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:28:34.640]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:28:34.646]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='setup' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:28:34.646]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:28:34.647]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[ERROR] [2024-10-02 18:28:34.647]:Error while taking screenshot: name 'driver' is not defined conftest.py -> pytest_runtest_makereport line:35
+[INFO] [2024-10-02 18:28:34.648]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:28:34.649]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:29:59.156]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:29:59.159]:execution time: 2.68 second conftest.py -> pytest_runtest_makereport line:29
+[ERROR] [2024-10-02 18:30:01.431]:'NoneType' object has no attribute 'get' event.py -> event_login line:18
+[INFO] [2024-10-02 18:30:01.534]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:30:01.536]:execution time: 2.3 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:30:01.555]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[INFO] [2024-10-02 18:30:03.011]:截图成功：/Users/easons/IdeaProjects/Auto-ui-mall/image_allure//tem_chrom_save_screenshot1727865001.jpg base.py -> chrom_save_screenshot line:129
+[INFO] [2024-10-02 18:30:03.015]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-123456-Login successful]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:30:03.015]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:30:03.025]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:30:03.025]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[ERROR] [2024-10-02 18:30:05.192]:'NoneType' object has no attribute 'get' event.py -> event_login line:18
+[INFO] [2024-10-02 18:30:05.226]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:30:05.239]:execution time: 2.19 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:30:05.259]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[INFO] [2024-10-02 18:30:06.496]:截图成功：/Users/easons/IdeaProjects/Auto-ui-mall/image_allure//tem_chrom_save_screenshot1727865005.jpg base.py -> chrom_save_screenshot line:129
+[INFO] [2024-10-02 18:30:06.499]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[13222689999-1234567-Login failed]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:30:06.499]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:30:06.500]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='setup' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:30:06.501]:execution time: 0.0 second conftest.py -> pytest_runtest_makereport line:29
+[ERROR] [2024-10-02 18:30:08.354]:'NoneType' object has no attribute 'get' event.py -> event_login line:18
+[INFO] [2024-10-02 18:30:08.374]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='call' outcome='failed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:30:08.390]:execution time: 1.87 second conftest.py -> pytest_runtest_makereport line:29
+[INFO] [2024-10-02 18:30:08.409]:error.screenshot. conftest.py -> pytest_runtest_makereport line:32
+[INFO] [2024-10-02 18:30:09.721]:截图成功：/Users/easons/IdeaProjects/Auto-ui-mall/image_allure//tem_chrom_save_screenshot1727865008.jpg base.py -> chrom_save_screenshot line:129
+[INFO] [2024-10-02 18:30:09.827]:Test result: <TestReport 'test_login.py::TestLogin::test_login_success[-123456-username is empty]' when='teardown' outcome='passed'> conftest.py -> pytest_runtest_makereport line:28
+[INFO] [2024-10-02 18:30:09.828]:execution time: 0.1 second conftest.py -> pytest_runtest_makereport line:29
